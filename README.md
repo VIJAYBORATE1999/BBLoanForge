@@ -5,5 +5,13 @@ Succesfully Sold My PAAAWWWWBB...code to 10 Different Companies also got Selecte
 
 DM me for the source code and if you need it.
 
+<H3>Curretly accesible to Recruiter with PASSWORD In XXXXX mentioned in RESUME .</H3>
+
+gpg --symmetric --cipher-algo AES256 --passphrase "129XXXXX" -o encrypted_PAW.zip PAW.....FLO...AppliV.zip
+
+gpg --decrypt --cipher-algo AES256 --passphrase "129XXXXX" -o decrypted_PAW.zip encrypted_PAW.zip
+
+
+
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
