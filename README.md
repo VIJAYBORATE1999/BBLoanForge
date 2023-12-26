@@ -1,0 +1,2 @@
+# Bangkok-Trip-Codes
+"In May, coded a Java banking project in Bangkok. The dynamic cityscape influenced a global perspective in the code. Collaboration with local developers enriched the experience."
