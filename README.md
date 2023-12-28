@@ -12,7 +12,7 @@ gpg --symmetric --cipher-algo AES256 --passphrase "12XXXXXX1" -o encrypted_PA..W
 
 gpg --decrypt --cipher-algo AES256 --passphrase "12XXXXXX1" -o decrypted_PA..WB..FLO...AppV0.1.zip encrypted_PA..WB..FLO...AppV0.1.zip
 
-Description with Functional documentation(FSD+ Video and Screen Shots is mentioned in Resume) 
+Description with Functional documentation(FSD+ Video and Screen Shots Link is mentioned in Resume) 
 
 
 00000000V00E0000000D00000K0000I000M00A000K0000000I0000000C00000000H00000000000U00000000T000000000000000000000000000000000000000000
